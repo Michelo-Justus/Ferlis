@@ -1,4 +1,4 @@
-# Ferlis-AI
+# Ferlis
 
 Not really AI, But it's AI!
 
